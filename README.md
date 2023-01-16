@@ -37,4 +37,5 @@ We are doing our EDA by responding to the following questions
 ![alt text](https://github.com/ahd687/sale_analysis_proj/blob/master/best_moth_sales.png " Best month for sales")
 ![alt text](https://github.com/ahd687/sale_analysis_proj/blob/master/Hihgest_sales_cities.png " Sales by Cities")
 ![alt text](https://github.com/ahd687/sale_analysis_proj/blob/master/most_sold_products.png "Most sold products")
+![alt text](https://github.com/ahd687/sale_analysis_proj/blob/master/most_sold_products_price.png "Most sold products vs Price")
 
